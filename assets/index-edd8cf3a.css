@@ -1685,6 +1685,9 @@ html {
   }
 }
 @media (min-width: 1024px) {
+  .img-center {
+    object-position: 0% 25%;
+  }
   .lg\:relative {
     position: relative;
   }
