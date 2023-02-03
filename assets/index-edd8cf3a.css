@@ -573,7 +573,7 @@ html {
   min-height: 250px;
 }
 .w-80 {
-  width: 20rem;
+  width: 25rem;
 }
 .w-full {
   width: 100%;
@@ -1805,7 +1805,7 @@ html {
     display: block;
   }
   .xl\:w-60 {
-    width: 15rem;
+    width: 22rem;
   }
   .xl\:w-\[35\%\] {
     width: 35%;
